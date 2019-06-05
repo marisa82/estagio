@@ -1,0 +1,130 @@
+@media (max-width: 1200px) {
+  .main_wrapper .news_section .news_wrapper .news_item {
+    width: 45% !important;
+  }
+}
+@media (max-width: 970px) {
+  .main_wrapper h2 {
+    text-align: center !important;
+  }
+  .main_wrapper .publi_section {
+    margin: 192px 0 0px 0 !important;
+  }
+  .main_wrapper .publi_section .publi_bg_wrapper img {
+    display: none !important;
+  }
+  .main_wrapper .publi_section .publi_content_wrapper .publi_content .public_item {
+    width: 100% !important;
+    position: inherit !important;
+    margin-top: -100px !important;
+  }
+  .main_wrapper .publi_section .publi_content_wrapper .publi_content .pub_center {
+    display: none !important;
+  }
+  .main_wrapper .publi_section .product_wrapper_right .product_banner .product_banner_video_wrapper {
+    bottom: 210px;
+  }
+  .main_wrapper .publi_section .product_wrapper_right .product_banner .product_banner_video_wrapper iframe {
+    width: 500px !important;
+    height: 400px !important;
+  }
+  .main_wrapper .news_section {
+    margin-top: 50px !important;
+  }
+  .main_wrapper .contact_section,
+  .main_wrapper .product_section {
+    width: 90% !important;
+    margin: 0 5% !important;
+  }
+  .main_wrapper .contact_section .product_wrapper,
+  .main_wrapper .product_section .product_wrapper {
+    width: 100% !important;
+  }
+  .main_wrapper .contact_section .product_wrapper_left .product_list_wrapper .product_list .product_list_item,
+  .main_wrapper .product_section .product_wrapper_left .product_list_wrapper .product_list .product_list_item {
+    width: 100% !important;
+  }
+  .main_wrapper footer .footer_wrapper .footer_item {
+    width: 100% !important;
+    height: 80px !important;
+  }
+  .main_wrapper footer .footer_wrapper .footer_item img {
+    width: 120px !important;
+    padding: 25px 0 !important;
+  }
+  .main_wrapper footer .footer_wrapper .footer_item:nth-child(1) {
+    order: 1 !important;
+  }
+  .main_wrapper footer .footer_wrapper .footer_item:nth-child(2) {
+    order: 3 !important;
+  }
+  .main_wrapper footer .footer_wrapper .footer_item:nth-child(3) {
+    order: 2 !important;
+  }
+}
+@media (max-width: 874px) {
+  .main_wrapper .hero_section .hero_slogan_wrapper .hero_section_slogan {
+    font-size: 38px !important;
+    line-height: 50px;
+  }
+}
+@media (max-width: 640px) {
+  .main_wrapper header .sub_menu_right {
+    display: none !important;
+  }
+  .main_wrapper header .sub_menu_left {
+    width: 100% !important;
+    min-width: 100% !important;
+    text-align: center !important;
+  }
+  .main_wrapper header .sub_menu_left .logo {
+    width: 100% !important;
+    min-width: 100% !important;
+    margin: 15px 0 !important;
+    background-position: center !important;
+  }
+  .main_wrapper .hero_section h1 {
+    font-size: 26px !important;
+    line-height: 36px !important;
+  }
+  .main_wrapper .contact_section .contact_wrapper .contact_item {
+    width: 100% !important;
+  }
+  .main_wrapper .news_section .news_wrapper .news_item {
+    width: 90% !important;
+    margin: 15px !important;
+  }
+  .main_wrapper .product_section .product_wrapper_right .product_banner .product_banner_video_wrapper {
+    bottom: 140px;
+  }
+  .main_wrapper .product_section .product_wrapper_right .product_banner .product_banner_video_wrapper iframe {
+    width: 350px !important;
+    height: 250px !important;
+  }
+}
+@media (max-width: 480px) {
+  .main_wrapper header .menu .menu_nav .menu_item {
+    min-width: 100% !important;
+  }
+  .hero_section .hero_slogan_wrapper .hero_section_slogan {
+    font-size: 24px !important;
+    line-height: 28px;
+  }
+  .contact_section .contact_wrapper .contact_item {
+    padding: 50px 40px;
+  }
+}
+@media (max-width: 415px) {
+  .main_wrapper .product_section .product_wrapper_right .product_banner .product_banner_video_wrapper {
+    bottom: 100px;
+  }
+  .main_wrapper .product_section .product_wrapper_right .product_banner .product_banner_video_wrapper iframe {
+    width: 200px !important;
+    height: 150px !important;
+  }
+}
+@media (max-width: 375px) {
+  .main_wrapper .product_section .product_wrapper_right .product_banner .product_banner_video_wrapper {
+    bottom: 80px !important;
+  }
+}
